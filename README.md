@@ -35,6 +35,6 @@ Real-time chat application with WebSocket-based messaging.
 
 ## 📬 Let's connect
 
-- Portfolio: [mahatorambabu.dev](https://mahatorambabu.dev)
+- Portfolio: https://personal-portfolio-ten-psi-52.vercel.app/    
 - LinkedIn: [linkedin.com/in/mahatorambabu](https://linkedin.com/in/mahatorambabu)
 - Email: mahatorambabu114@gmail.com
